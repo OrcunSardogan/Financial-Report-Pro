@@ -28,7 +28,7 @@ Uygulama, **katmanlı mimari** yaklaşımıyla tasarlanmıştır ve **Entity Fra
 ---
 
 ## 📂 Proje Yapısı
-
+```plaintext
 FinancialReport/
 ├── FinancialReport.Domain # Veri modelleri
 ├── FinancialReport.Infrastructure # EF Core ve veri erişim katmanı
@@ -37,7 +37,7 @@ FinancialReport/
 └── README.md
 
 ---
-
+```
 ## 📦 Kurulum
 
 1. Repoyu klonlayın:
